@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
+product_managment/.ipynb_checkpoints
+marketing_analytics/.ipynb_checkpoints
+cyber_security
+config.yaml
+marketing_analytics/customer_segmentaion.ipynb
